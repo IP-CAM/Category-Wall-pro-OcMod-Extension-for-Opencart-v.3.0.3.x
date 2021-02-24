@@ -1,36 +1,37 @@
 # Category Wall Professional
-Стена категорий Расширенная версия.
+Wall categories Extended version.
 
-## Описание
-Добавляет вывод категорий и подкатегорий на страницах ОпенКарт. Расширенная версия.
+## Description
+Adds the output of categories and subcategories on the OpenCart pages. Extended version.
 
-### Установка через ocmod
-- Войти в панель администрирования Вашего магазина
-- Перейти в Расширения->Установщик
-- Нажать кнопку "Загрузить"
-- Выбрать архив "ocn__category_wall_pro.ocmod.zip"
-- Дождаться завершения установки
-- Перейти в Расширения->Модификации
-- Нажать кнопку "Обновить"
-- Установить в админке модуль Стена Категорий
+### Installation via OCMOD
+- Log in to the Administration Panel of Your Store
+- Go to expansion-> Installer
+- Press the "Download" button
+- Select archive "Ocn__Category_wall_pro.ocmod.zip"
+- wait for the installation
+- Go to expansion-> Modifications
+- Press the "Update" button
+- Install in the admin module wall categories
 
-### Установка ручная
-- Скопировать содержимое папки upload в корень магазина
-- Установить в админке модуль Стена Категорий
+### Installation manual
+- Copy the contents of the Upload folder in the store root
+- Install in the admin module wall categories
 
-### Активация
-- Перейти в Расширения->Расширения
-- Выбрать тип расширения: Модули
-- Найти в списке [OCN] Стена Категорий Про и Установить путем нажатия на зеленый плюс
-- После в настройках расширения включить его
-- После необходимо в Дизайн->Макеты добавить модуль на нужную страницу
+### Activation
+- Go to expansion-> Extensions
+- Select Expansion Type: Modules
+- Find in the [OCN] list of categories about and set by pressing the green plus
+- After the expansion settings include it
+- After it is necessary to add a module to the desired page.
 
-### Совместимость
-- OpenCart 3.0.3.x
+### compatibility
+- OpenCart 3.0.3.x.
 
-### Лицензия
-[GNU General Public License version 3 (GPLv3)](LICENSE)
+### License
+[GNU GENERAL PUBLIC LICENSE VERSION 3 (GPLV3)] (License)
 
-## Ссылки
-- [Ресурс на форуме](https://forum.opencart.name/resources/Стена-Категорий-Про.50/)
-- [Тема поддержки расширения](https://forum.opencart.name/threads/Стена-Категорий-Про.74/)
+## Links
+- [resource on the forum] (https://forum.opencart.name/resources/Sthen-Categoric-Pro.50/)
+- [Expansion Support Topic] (https://forum.opencart.name/threads/Sthen-Category-Pro.74/)
+- 
